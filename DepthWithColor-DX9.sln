@@ -1,6 +1,6 @@
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DepthWithColor-DX9", "DepthWithColor-DX9.vcproj", "{C45E1911-DF4A-4838-A63C-E3932A86FC97}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DepthWithColor-DX9", "DepthWithColor-DX9.vcxproj", "{C45E1911-DF4A-4838-A63C-E3932A86FC97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
